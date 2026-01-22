@@ -56,7 +56,7 @@ npm install -g .
 **This project is free and open-source on GitHub.**
 
 If you prefer a pre-built, ready-to-use Windows executable with no setup required:  
-👉 **[Buy on Gumroad](https://gumroad.com/yourusername/l/passive-gen)** — Includes compiled binary, quick-start guide, and priority support
+👉 **[Buy on Gumroad](https://wizardrytezch.gumroad.com/l/cxajqh)** — Includes compiled binary, quick-start guide, and priority support
 
 Open-source users: Clone and build locally (it's free).
 
