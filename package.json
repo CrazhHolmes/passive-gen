@@ -1,0 +1,31 @@
+{
+  "name": "passive-gen",
+  "version": "1.0.0",
+  "description": "Generate passive income product ideas and prompts for a given niche",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "passive-gen": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/cli.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:ui": "vitest --ui",
+    "lint": "eslint src tests --fix"
+  },
+  "keywords": ["cli", "passive-income", "gumroad", "etsy", "ai-prompts"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@typescript-eslint/eslint-plugin": "^6.16.0",
+    "@typescript-eslint/parser": "^6.16.0",
+    "eslint": "^8.56.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.1.0"
+  }
+}

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+out/
+test-out/
+
+# Gumroad packaging artifacts
+passive-gen-v1.0.0/
+passive-gen-v1.0.0.zip
+
+# Optional local images (for personal development)
+passive-gen-cover
+passive-gen-cover.png
+passive-gen-cover.png/
+
+# IDE and OS
