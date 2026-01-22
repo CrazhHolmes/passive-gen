@@ -1,5 +1,7 @@
 # 💡 Passive Income Idea Generator
 
+![Passive-Gen Cover](assets/cover.png)
+
 **Offline passive income product ideas for any niche — no APIs, no keys, no internet required.**
 
 Generate Gumroad course ideas, Etsy product concepts, and AI prompts in seconds. 100% deterministic. 100% offline. Free to use.
@@ -57,6 +59,8 @@ npm install -g .
 
 If you prefer a pre-built, ready-to-use Windows executable with no setup required:  
 👉 **[Buy on Gumroad](https://wizardrytezch.gumroad.com/l/cxajqh)** — Includes compiled binary, quick-start guide, and priority support
+
+**Source (GitHub):** https://github.com/CrazhHolmes/passive-gen
 
 Open-source users: Clone and build locally (it's free).
 
