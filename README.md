@@ -115,66 +115,6 @@ cat ideas/gumroad_ideas.md
 
 ---
 
-### 2. API Health Monitor (7.0/10)
-**The Problem:** UptimeRobot is too basic, Datadog is overkill and expensive for indie devs.  
-**The Solution:** Simple uptime monitoring with webhook alerts, status pages, and response time tracking. No bloat, ju...  
-**Revenue Model:** $$$  
-**Time to Ship:** 5 weeks
-
-| Metric | Score |
-|--------|-------|
-| Ease | 7/10 |
-| Demand | 8/10 |
-| Differentiation | 8/10 |
-
----
-
-### 3. Content Calendar AI (6.2/10)
-**The Problem:** Consistency is the hardest part of content marketing. Writer's block kills momentum.  
-**The Solution:** Auto-generate 30 days of social media content in 10 minutes. Hooks, threads, and carousels tailored ...  
-**Revenue Model:** $$$  
-**Time to Ship:** 4 weeks
-
-| Metric | Score |
-|--------|-------|
-| Ease | 6/10 |
-| Demand | 9/10 |
-| Differentiation | 6/10 |
-
----
-
-### 4. SaaS Starter Kit (6.5/10)
-**The Problem:** Every founder rebuilds auth, billing, and dashboards. Waste of time.  
-**The Solution:** Production-ready boilerplate with Next.js, Stripe, Supabase Auth, and Tailwind. Launch in 48 hours i...  
-**Revenue Model:** $$$  
-**Time to Ship:** 3 weeks
-
-| Metric | Score |
-|--------|-------|
-| Ease | 8/10 |
-| Demand | 10/10 |
-| Differentiation | 5/10 |
-
----
-
-### 5. Indie Analytics (7.0/10)
-**The Problem:** Google Analytics is complex, invasive, and overkill for simple SaaS.  
-**The Solution:** Privacy-first analytics for bootstrapped founders. Simple dashboard, no cookies, GDPR compliant, fas...  
-**Revenue Model:** $$$  
-**Time to Ship:** 5 weeks
-
-| Metric | Score |
-|--------|-------|
-| Ease | 7/10 |
-| Demand | 8/10 |
-| Differentiation | 8/10 |
-
----
-
-*Want more ideas like these? [Get Passive-Gen →](https://wizardrytezch.gumroad.com/l/cxajqh)*
-
----
-
 ## 🚀 Real Results
 
 > "Generated 20 ideas, built 2 MVPs, made first $100 in passive income."  
@@ -336,7 +276,7 @@ passive-gen "niche" --count 100 --out ./bulk
 
 ## 🤝 Contributing
 
-Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md)
+Contributions welcome! Open an [issue](https://github.com/CrazhHolmes/passive-gen/issues) or PR
 
 **Ways to help:**
 - ⭐ Star this repo
